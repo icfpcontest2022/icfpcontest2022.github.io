@@ -1,4 +1,5 @@
 ---
 layout: default
 ---
-This is the home page of the myproject documentation.
+
+Stay locked in for the details! 
