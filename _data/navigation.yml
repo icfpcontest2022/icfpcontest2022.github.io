@@ -1,0 +1,19 @@
+
+- title: Home
+  url: /
+- title: Portal
+  url: /portal
+- title: Scoreboard
+  url: /scoreboard
+- title: Rules
+  url: /rules
+- title: Specification
+  url: /specification
+- title: FAQ
+  url: /faq
+- title: Prizes
+  url: /prizes
+- title: Writeups
+  url: /writeups
+- title: About
+  url: /about
