@@ -15,3 +15,7 @@ Further enquires and real-time communication about the contest takes place on th
 
 Registrations are now open at [https://robovinci.xyz](https://robovinci.xyz)!
 
+## Specification
+
+You can react the specification at [Specification tab](./specification)
+
