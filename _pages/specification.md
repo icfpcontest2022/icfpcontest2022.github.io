@@ -10,6 +10,6 @@ Any formal changes to the problem specification will result in an update to the 
 
 **Specification V1:** [Full Division Specification](https://github.com/icfpcontest2022/icfpcontest2022.github.io/blob/15a2db2bf67e1f14d33b0be7505c066a8f2a72e7/ContestSpecification_full_round.pdf)
 
-**Specification V2.3:** [Full Division Specification V2/3](https://github.com/icfpcontest2022/icfpcontest2022.github.io/blob/8c9b9ce52f4f9940673049089ed4df60e29a599c/ContestSpecification_v2_3.pdf)
+**Specification V2.4:** [Full Division Specification V2/4](https://github.com/icfpcontest2022/icfpcontest2022.github.io/blob/a38d452791b43cf2b32cd89447c39ca4fe606b09/ContestSpecification_v2_4.pdf)
 
 
