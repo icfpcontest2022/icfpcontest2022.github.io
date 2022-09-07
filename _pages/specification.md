@@ -6,10 +6,8 @@ permalink: /specification/
 
 Any formal changes to the problem specification will result in an update to the specification given in this page as well as an update published on the homepage.
 
-**Specification V0.2:** [Lightning Division Specification](https://github.com/icfpcontest2022/icfpcontest2022.github.io/blob/d3b8eb326271721d6df241cba12f0cc9b2a43485/ContestSpecification.pdf)
+**Specification V0.2:** [Lightning Division Specification](../Specifications/spec_v0_2.pdf)
 
-**Specification V1:** [Full Division Specification](https://github.com/icfpcontest2022/icfpcontest2022.github.io/blob/15a2db2bf67e1f14d33b0be7505c066a8f2a72e7/ContestSpecification_full_round.pdf)
+**Specification V1:** [Full Division Specification](../Specifications/spec_v1.pdf)
 
-**Specification V2.4:** [Full Division Specification V2/4](https://github.com/icfpcontest2022/icfpcontest2022.github.io/blob/a38d452791b43cf2b32cd89447c39ca4fe606b09/ContestSpecification_v2_4.pdf)
-
-
+**Specification V2.4:** [Full Division Specification V2/4](../Specifications/spec_v2_4.pdf)
