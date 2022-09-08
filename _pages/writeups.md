@@ -8,9 +8,10 @@ Any writeups related to the contest will be published here.
 
 ## Writeups
 
-- **RGBTeam Writeup:** [https://teletype.in/@bminaiev/icfpc-2022](https://teletype.in/@bminaiev/icfpc-2022)
+- **RGBTeam:** [https://teletype.in/@bminaiev/icfpc-2022](https://teletype.in/@bminaiev/icfpc-2022)
 - **Frictionless Bananas:** [http://www.sawicki.us/icfp/2022/](http://www.sawicki.us/icfp/2022/)
 - **Unagi:** [https://github.com/icfpc-unagi/icfpc2022](https://github.com/icfpc-unagi/icfpc2022)
+- **Manarimo:** [https://github.com/manarimo/ICFPC2022](https://github.com/manarimo/ICFPC2022)
 
 ## Related Links
 
