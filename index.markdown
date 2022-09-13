@@ -11,6 +11,10 @@ Results of ICFP Programming Contest will be announced between **15.40-16.00(UTC)
 
 Session will be broadcasted live on youtube, we will provide the link over the discord/twitter and also this website a few minutes before the session.
 
+**You can use the youtube link below to watch the session**
+
+Youtube Link: [https://youtu.be/n_bbsxEoPVI](https://youtu.be/n_bbsxEoPVI)
+
 ## Information
 
 **ICFP Contest** is an annual 72-hour programming contest organized under [ICFP (International Conference on Functional Programming)](https://icfp22.sigplan.org) since 1998.
