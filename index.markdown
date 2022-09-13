@@ -7,6 +7,29 @@ title: ICFP Contest 2022 Homepage
 
 ## Announcements
 
+### ICFP Programming Contest Final Round Standings Are Published
+
+You can check [scoreboard page](./_pages/scoreboard.md) to see your standing.
+
+### ICFP Programming Contest Awards Are Given
+
+**First prize** goes to **Unagi**  
+*Rust, Go and Python  is the programming tool of choice for discriminating hackers.*
+
+**Second prize**  goes to **RGBTeam**  
+*Rust, C++ and Python is a fine programming tool for many applications.*
+
+**Third prize** goes to **Pigimarl**  
+*C++, Rust and Python is also not too shabby.*
+
+**Winner of the lightning division** is **RGBTeam**  
+*Rust, C++ and Python are very suitable for rapid prototyping.*
+
+**Judges' prize** goes to **The Cat is Number 1**  
+*The Cat is Number 1 are an extremely cool bunch of hackers.*
+
+### ICFP Programming Contest Report Session at ICFP
+
 Results of ICFP Programming Contest will be announced between **15.40-16.00(UTC)** on 13th of September at the [ICFP Programming Contest Report Session](https://icfp22.sigplan.org/program/program-icfp-2022/?past=Show%20upcoming%20events%20only).
 
 Session will be broadcasted live on youtube, we will provide the link over the discord/twitter and also this website a few minutes before the session.
