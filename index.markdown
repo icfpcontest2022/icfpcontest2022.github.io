@@ -7,6 +7,10 @@ title: ICFP Contest 2022 Homepage
 
 ## Announcements
 
+### ICFP Programming Contest Lightning Division Standings Are Published
+
+You can check [scoreboard page](./_pages/scoreboard.md/#lightning-division-scoreboard) to see your standing.
+
 ### ICFP Programming Contest Final Round Standings Are Published
 
 You can check [scoreboard page](./_pages/scoreboard.md) to see your standing.
