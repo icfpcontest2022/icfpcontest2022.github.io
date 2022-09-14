@@ -4,8 +4,9 @@ title: Scoreboard
 permalink: /scoreboard/
 ---
 
-We will update this page with both the ligthning round and the full division scoreboard after we publish the scoreboards on 14th of September.
+You can see the full division scoreboard right below, and reach to the lightning division scoreboard by scrolling down the page or clicking [here](#lightning-division-scoreboard).
 
+## Full Division Scoreboard
 
 | Position | Team Name | Score |
 | ---------| ------------| ---------- |
@@ -160,3 +161,141 @@ We will update this page with both the ligthning round and the full division sco
 | 149| JoeBidenTeam        | 216953 |
 | 150| Foundation      | 237319 |
 | 151| raklo       | 1858256950 |
+
+## Lightning Division Scoreboard
+
+| Position | Team Name | Score |
+| 1 | RGBTeam | 368893 |
+| 2 | Unagi | 398148 |
+| 3 | manarimo | 475276 |
+| 4 | All your lambda are belong to us | 480918 |
+| 5 | Pigimarl | 487393 |
+| 6 | CowDay | 519069 |
+| 7 | sanma | 539367 |
+| 8 | Titleholder | 542777 |
+| 9 | fixstars | 564982 |
+| 10 | Eat Less Drink More | 597787 |
+| 11 | Gon the Fox | 663243 |
+| 12 | pegovka | 669829 |
+| 13 | WILD BASHKORT MAGES | 682081 |
+| 14 | powder | 682184 |
+| 15 | Pheon | 684961 |
+| 16 | jabber_ru | 696760 |
+| 17 | Side Effects May Include | 719978 |
+| 18 | DiamondPrincess | 735069 |
+| 19 | Channable and Friends | 740912 |
+| 20 | I Albatross | 751381 |
+| 21 | ACCESS_VIOLATION | 773765 |
+| 22 | Cult of the Bound Variable | 792906 |
+| 23 | TUS | 794353 |
+| 24 | chirijako | 800899 |
+| 25 | Jumbo Chicken | 824777 |
+| 26 | Olympia | 843098 |
+| 27 | negainoido | 857850 |
+| 28 | cashto | 872107 |
+| 29 | EyesUpGuardian | 879044 |
+| 30 | udfew | 880015 |
+| 31 | Snakes Monkeys and Two Smoking Lambdas | 905141 |
+| 32 | The Blind Hen | 916176 |
+| 33 | Limiting Factor | 921916 |
+| 34 | idkjava | 924403 |
+| 35 | The Cat is Number 1 | 930911 |
+| 36 | KMC | 938278 |
+| 37 | mendokoro_yoshi | 969888 |
+| 38 | code_o_matic | 969900 |
+| 39 | yowa | 975389 |
+| 40 | Alpha Alpaca | 1040412 |
+| 41 | 301 | 1053729 |
+| 42 | sonna_baka_na | 1054153 |
+| 43 | Tsukemen_Man | 1071768 |
+| 44 | Turing Machinists | 1082275 |
+| 45 | xyz600 | 1110219 |
+| 46 | TBD | 1121071 |
+| 47 | Raging Mushrooms | 1121333 |
+| 48 | Inchy Dave | 1131910 |
+| 49 | camel_case | 1136398 |
+| 50 | Sot6 | 1141019 |
+| 51 | okaduki | 1174603 |
+| 52 | hayatox | 1194389 |
+| 53 | LILiK | 1199806 |
+| 54 | uni | 1205617 |
+| 55 | NoWar_kt | 1228666 |
+| 56 | Sleep is your Superpower | 1229969 |
+| 57 | SjoerdVisscher | 1252466 |
+| 58 | Frictionless Bananas | 1295595 |
+| 59 | Zebra Infused Hamsters | 1298022 |
+| 60 | sanityinc | 1298255 |
+| 61 | KoeNNer | 1308295 |
+| 62 | hari64 | 1329177 |
+| 63 | Circular Import | 1347524 |
+| 64 | tmd | 1429325 |
+| 65 | OMGICFPFTW | 1439095 |
+| 66 | nhho | 1446491 |
+| 67 | Yorofuwa | 1450952 |
+| 68 | taxidriver | 1459904 |
+| 69 | The O | 1463996 |
+| 70 | Office 14 | 1477010 |
+| 71 | Hoda Lotus Blossom | 1491651 |
+| 72 | slow neurons | 1508938 |
+| 73 | Great Expectations | 1515794 |
+| 74 | codingteam | 1526245 |
+| 75 | Henchman 24 | 1555086 |
+| 76 | DNIWE_ii_a | 1617951 |
+| 77 | Geohackers | 1663365 |
+| 78 | uguu_org | 1704582 |
+| 79 | Free Tacos | 1716465 |
+| 80 | Slow | 1718235 |
+| 81 | R22b | 1824078 |
+| 82 | dare ludum | 1833465 |
+| 83 | WinterMUTE | 1839034 |
+| 84 | The Higher Order of Zeuxis | 1869003 |
+| 85 | Aronoel | 1968076 |
+| 86 | Rogue Operations | 2860971 |
+| 87 | shinh | 3447560 |
+| 88 | Sunspear | 3827631 |
+| 89 | representing_monads_and_macros | 4134479 |
+| 90 | Junkfood | 4134479 |
+| 91 | EliteHackers | 7129276 |
+| 92 | shocr | 10031614 |
+| 93 | Strongly Typed Lambda Stew | 91457116 |
+| 94 | NashFP | 122686704574 |
+| 95 | mnuyav | 204466699600 |
+| 96 | Piggyback | 1567644 |
+| 97 | Team Sampou | 948326641 |
+| 98 | Power | 1382059 |
+| 99 | IKS | 1152829 |
+| 100 | Byte_Me_Daddy | 1176933 |
+| 101 | epriestley | 1230951 |
+| 102 | Mostly Harmless | 232820798326 |
+| 103 | iehn | 1511321 |
+| 104 | Team Gullu | 1417797 |
+| 105 | Didnt Mean to use Python | 586676 |
+| 106 | balonit bros | 15734149 |
+| 107 | tratata__hloya_ygrt__teleport | 296270 |
+| 108 | goto 11 | 259016 |
+| 109 | killswitch | 316958 |
+| 110 | gogogo1 | 804797274 |
+| 111 | Closed and Restricted Boltzmann Machine | 56080 |
+| 112 | paiv | 59136 |
+| 113 | Uni | 142550 |
+| 114 | jpb | 261254 |
+| 115 | The Scrolling Stones | 8938 |
+| 116 | glua_team | 22442 |
+| 117 | seiyakyokai | 34900 |
+| 118 | MAD Team | 53303 |
+| 119 | Codermal | 68207 |
+| 120 | Test | 126420 |
+| 121 | Load of old pollocks | 132229 |
+| 122 | Dis Functional | 137644 |
+| 123 | InforFun | 138110 |
+| 124 | tomerun | 142096 |
+| 125 | I_almost_missed_icfpc | 145599 |
+| 126 | yhara | 150103 |
+| 127 | WrongEndians | 155473 |
+| 128 | ahmeteren | 163793 |
+| 129 | Wrong end of the digital brush | 165637 |
+| 130 | kuviman | 194616 |
+| 131 | Ozan Akin2 | 194626 |
+| 132 | Foundation | 237319 |
+| 133 | Ozan Akin | 257906 |
+| 134 | raklo | 26657363472 |
