@@ -17,6 +17,7 @@ Any writeups related to the contest will be published here.
     [Minoru's report (in Russian)](https://blog.debiania.in.ua/posts/2022-09-08-icfpc-2022.html)
 - **rmathew:** [http://rmathew.com/2022/icfpc22.html](http://rmathew.com/2022/icfpc22.html)
 - **cashto:** [https://github.com/cashto/icfp2022/](https://github.com/cashto/icfp2022/)
+- **The Cat is Number 1:** [https://github.com/thecatisnumber1/icfp2022](https://github.com/thecatisnumber1/icfp2022)
 
 ## Related Links
 
